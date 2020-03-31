@@ -1,4 +1,4 @@
-import sqlite3
+
 from db import db
 #API SECURITY <-> DATABASE
 class UserModel(db.Model):
